@@ -7,8 +7,6 @@
 	<img src="https://gpvc.arturio.dev/connorwilloughby" alt="Weekly profile views"> 
 </p>	
 
-----
-
 ## about me 
 
 Im Connor a data engineer @ Savills PLC. Ive been in the tech industry for around six years working in many different roles. Currently im a Data Engineer who spends most of the day working on engineering data solutions for stakeholders. I have a passion for solving problems and hope to be more open source about the problems that im solving by using this profile! 
@@ -27,8 +25,6 @@ Whilst doing this i have also been consulting on the side with [@vibrant-technol
    - aws, azure
  - Catch All
    - linux, ubuntu
-
-----
 
 ## projects 
 
