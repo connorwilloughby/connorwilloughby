@@ -1,7 +1,7 @@
 # welcome to my myspace page.  
 
 <p align="justify">
-	<a href="https://www.linkedin.com/in/connorwilloughby">
+	<a href="https://www.linkedin.com/in/connor-willoughby">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 	</a> 
 	<img src="https://gpvc.arturio.dev/connorwilloughby" alt="Weekly profile views"> 
