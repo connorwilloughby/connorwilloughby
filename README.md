@@ -1,12 +1,13 @@
 # welcome to my myspace page.  
 
 <p align="justify">
-	<a href="https://stackoverflow.com/users/9193156/connor-willoughby"><img src="https://stackoverflow.com/users/flair/9193156.png?theme=dark" width="208" height="58" alt="profile for Connor Willoughby at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Connor Willoughby at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 	
 	<a href="https://www.linkedin.com/in/connor-willoughby">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 	</a> 
 	<img src="https://gpvc.arturio.dev/connorwilloughby" alt="Weekly profile views"> 
+		<a href="https://stackoverflow.com/users/9193156/connor-willoughby"><img src="https://stackoverflow.com/users/flair/9193156.png?theme=dark" width="208" height="58" alt="profile for Connor Willoughby at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Connor Willoughby at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>	
 
 
