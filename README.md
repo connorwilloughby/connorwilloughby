@@ -10,14 +10,18 @@
 
 ## about me 
 
-Im Connor the Lead Data Engineer @ Savills PLC. Ive been in the tech industry for around nine years working in many different roles. Currently im spending most of the day working on technical solutions for stakeholders across Savills. I have a passion for solving problems and hope to be more open source about the problems that im solving by using this profile! 
+Ive been in the tech industry for around eleven years working in many different roles. Currently im spending most of the day working on technical solutions for stakeholders involving data, cloud infrastructure and laying the foundation for startup companies across the world. 
+
+I have a passion for solving problems and would love to help you with yours!
 
 ## skills 
 
  - Relational SQL 
    -  mssql, psql, mysql
- - Development
-   - django, nodejs, .net
+ - Web Dev
+   - django, nextjs, .NET
+ - Various Data Tasks
+   - py, pd
  - Cloud Computing 
    - aws, azure
  - Catch All
